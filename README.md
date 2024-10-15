@@ -2,8 +2,16 @@
 
 Description. 
 The package package_name is used to:
-	- 
-	-
+	- Processing:
+		*Histrogram matching
+		*Structural similarity
+		*Resize image
+	- Utils:
+		*Read image
+		*Save image
+		*Plot image
+		*Plot result
+		*Plot histrogram
 
 ## Installation
 
